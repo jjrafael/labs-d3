@@ -8,7 +8,7 @@ class App extends Component {
                <h2>d3ia dashboard</h2>
             </div>
             <div>
-               <BarChart data={[5, 10, 1, 3]} size={[500, 500]} />
+               <BarChart data={[5, 10, 1, 3, 6, 19, 12, 2, 5, 5, 10, 17, 20]} size={[500, 500]} />
             </div>
          </div>
       )
